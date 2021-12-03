@@ -125,7 +125,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+<!-- ## 📊 Github Stats (Expand to View) 
 
 
 <details> 
@@ -150,7 +150,7 @@
 
 </details>
 
-<br/>
+<br/> -->
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
